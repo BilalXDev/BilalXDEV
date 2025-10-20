@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧠 About Me<br><br>🔭 Currently working on:<br>      MERN stack projects with AI integration.<br><br>🤝 Collaborating on:<br>      Building faster and more efficient systems. ⚙️<br><br>🌱 Learning:<br>      Advanced backend — APIs, auth, and performance.<br><br>💬 Ask me about:<br>     Nextjs, React, Node.js, and web dev tips.<br><br>⚡ Fun fact:<br>      Learned Nextjs in a month and built my first full-stack app while in school. 🚀
+🔭 Currently working on:<br>      MERN stack projects with AI integration.<br><br>🤝 Collaborating on:<br>      Building faster and more efficient systems. ⚙️<br><br>🌱 Learning:<br>      Advanced backend — APIs, auth, and performance.<br><br>💬 Ask me about:<br>     Nextjs, React, Node.js, and web dev tips.<br><br>⚡ Fun fact:<br>      Learned Nextjs in a month and built my first full-stack app while in school. 🚀
 
 
 ## 🌐 Socials:
